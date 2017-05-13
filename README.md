@@ -14,7 +14,7 @@ If you just want the text response only, you should access the JSON object by ke
 There is no database, no devise authentication, no front-end code in this implementation. You can implement them in your own style.
 
 ## Implementation example
-![Alfred](Rails_chatbot_api.ai-/preview.png)
+![](preview.png)
 [Click here](https://secure-bayou-98710.herokuapp.com/chats) to meet Alfred the bot! Feel free to teach him :)
 
 ## Credit
