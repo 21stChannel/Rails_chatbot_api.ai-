@@ -15,7 +15,6 @@ There is no database, no devise authentication, no front-end code in this implem
 
 ## Implementation example
 ![](preview.png)
-[Click here](https://alfred21st.herokuapp.com) to meet Alfred the bot! Feel free to teach him :)
 
 ## Credit
 Bootstrap template by [Mark Otto](https://twitter.com/mdo)\
