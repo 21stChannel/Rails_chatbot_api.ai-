@@ -15,7 +15,7 @@ There is no database, no devise authentication, no front-end code in this implem
 
 ## Implementation example
 ![](preview.png)
-[Click here](https://secure-bayou-98710.herokuapp.com/chats) to meet Alfred the bot! Feel free to teach him :)
+[Click here](https://alfred21st.herokuapp.com) to meet Alfred the bot! Feel free to teach him :)
 
 ## Credit
 Bootstrap template by [Mark Otto](https://twitter.com/mdo)\
